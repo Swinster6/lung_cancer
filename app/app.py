@@ -20,7 +20,7 @@ def home():
 def predict():
     # Get the input from the user
     gender = request.form.get('gender')
-    weight = float(request.form.get('weight'))
+    weight = float(request.form.get('weight'))*2.2
     age = float(request.form.get('age'))
     smoking = float(request.form.get('smoking'))
     yellow_fingers = float(request.form.get('yellow_fingers'))
