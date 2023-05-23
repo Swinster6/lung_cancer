@@ -1,0 +1,5 @@
+{
+  "Interpreter": "Workspace|Workspace|e.env",
+  "SuppressEnvironmentCreationPrompt": true,
+  "SuppressConfigureTestFrameworkPrompt": "true"
+}

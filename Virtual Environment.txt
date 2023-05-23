@@ -1,0 +1,5 @@
+Create VE - C:\Users\Swin Ratnayake\Desktop\LungCancer>py -m venv .env
+Show Directory - C:\Users\Swin Ratnayake\Desktop\LungCancer>dir
+Activate - C:\Users\Swin Ratnayake\Desktop\Flask>.env\scripts\activate
+Install Libraries - (.env) C:\Users\Swin Ratnayake\Desktop\LungCancer>pip install -r requirements.txt
+View Libraries - (.env) C:\Users\Swin Ratnayake\Desktop\LungCancer>pip list
