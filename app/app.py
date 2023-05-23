@@ -3,7 +3,7 @@ import pickle
 import numpy as np
 import pandas as pd
 
-app = Flask(__main__)
+app = Flask(__name__)
 
 # Load the trained model and column names
 with open(r'model.pkl', 'rb') as file:
